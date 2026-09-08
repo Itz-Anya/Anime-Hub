@@ -1,0 +1,8 @@
+{
+  "short_name": "Anime Hub",
+  "name": "Anime Hub — Discover, track & love anime",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F172A",
+  "background_color": "#0F172A"
+}
